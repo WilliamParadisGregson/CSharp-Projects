@@ -1,0 +1,13 @@
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+C:\Users\William\Documents\Algonquin College\Semester 2\Web programming 11\Lab3 (1)\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
